@@ -1,0 +1,8 @@
+{
+  "name": "Petualangan Berbagi di Desa Pendem",
+  "description": "Game edukasi matematika petualangan berbagi konsep pembagian di Desa Pendem Kota Batu dengan latar pemandangan pedesaan yang asri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
